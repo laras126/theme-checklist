@@ -1,11 +1,13 @@
-# Plan nothing.
+# The Premium Theme Checklist
 
-Work from the theme first and fit your content into that. The fewer preconceived notions of layout and content stucture you have, the better.
+First and foremost: **Plan nothing**. The fewer preconceived notions of layout and content stucture you have, the better. 
+
+Do not work from a layout. Work from the theme first and map your content to the demo one-to-one as best you can.
 
 ### How to test
 
-1. Remove the frame at the top, or Inspect Element and find the iframe source.
-2. Select a specific demo site rather than the splash page. For example: Avada for Travel, X for Church...or something like that. That is the demo content you will use.
+1. When you open the theme demo, first remove the frame at the top. You may need to Inspect Element and find the iframe source.
+2. Select a specific demo site rather than the splash page. For example: Avada for Travel, [X for Church](http://theme.co/x/demo/expanded/church/)...or something like that. That is the demo content you will use.
 3. Make sure demo content is included with theme download. 
 4. As you vet, think "do I have content for that section"?
 
@@ -89,7 +91,7 @@ On the Themeforest page, check for:
 
 ### Frameworks
 
-Watch out for child themes, or at least know what you're getting into (i.e. there are no __grandchild__ themes).
+Watch out for child themes, or at least know what you're getting into (i.e. there are no *grandchild* themes).
 
 * [Make](https://thethemefoundry.com/wordpress-themes/make/), Theme Foundry
 * [Canvas](www.woothemes.com/products/canvas/), WooThemes
