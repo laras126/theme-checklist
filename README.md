@@ -1,4 +1,4 @@
-# The Premium Theme Checklist
+# Theme Checklist
 
 First and foremost: **Plan nothing**. The fewer preconceived notions of layout and content stucture you have, the better. 
 
