@@ -13,11 +13,11 @@ Do not work from a layout. Work from the theme first and map your content to the
 
 ### Credibility
 
-On the Themeforest page, check for:
+Check for:
 
-1. Last updated vs. original upload
-2. Documentation
-3. Number of downloads
+1. Last updated vs. original upload (Same day? May not be great at updates. 5 years old? May be a nasty codebase).
+2. Documentation and Support
+3. Number of downloads (Only 200? Maybe hold off.)
 4. Developer credentials
 
 ### Testing
@@ -61,10 +61,10 @@ On the Themeforest page, check for:
 
 1. Do not use those counter things.
 2. Disable loading icons.
-3. Do not use Revolution Slider or any of those gigantic sliders.
+3. Do not use Revolution Slider or any of those gigantic sliders or UI feature plugins.
 4. [Scroll-Jacking](http://robinrendle.com/notes/scrolljacking/) should die.
 5. You don't need parallax.
-6. One video background per page, please. or better yet...zero.
+6. One video background per page, please, or better yet...zero.
 	
 ## Resources
 
@@ -90,9 +90,9 @@ I don't necessarily condone everything here, but these are some resources for th
 
 Child themes are great, but keep in mind there are no *grandchild* themes, so if you use a ready made child theme you won't be able to create a child theme. So meta...
 
+* [Genesis by StudioPress](http://www.studiopress.com/)
 * [Make](https://thethemefoundry.com/wordpress-themes/make/), Theme Foundry
 * [Canvas](www.woothemes.com/products/canvas/), WooThemes
-* [StudioPress](http://www.studiopress.com/)
 
 ### Speed Testing Tools
 
