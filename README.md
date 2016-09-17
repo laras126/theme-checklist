@@ -1,6 +1,6 @@
 # The Premium Theme Checklist
 
-First and foremost: **Plan nothing**. The fewer preconceived notions of layout and content stucture you have, the better. 
+First and foremost: **Plan nothing**. The fewer preconceived notions of layout and content stucture you have, the better.
 
 Do not work from a layout. Work from the theme first and map your content to the demo one-to-one as best you can.
 
@@ -8,7 +8,7 @@ Do not work from a layout. Work from the theme first and map your content to the
 
 1. When you open the theme demo, first remove the frame at the top. You may need to Inspect Element and find the iframe source.
 2. Select a specific demo site rather than the splash page. For example: Avada for Travel, [X for Church](http://theme.co/x/demo/expanded/church/)...or something like that. That is the demo content you will use.
-3. Make sure demo content is included with theme download. 
+3. Make sure demo content is included with theme download.
 4. As you vet, think "do I have content for that section"?
 
 ### Credibility
@@ -49,9 +49,11 @@ On the Themeforest page, check for:
 	- In the Network tab, how many requests are there and how large are they? Pay attention to stylesheets and scripts in particular.
 	- Are the scripts and styles minified? This is something you can take care of, but it is an indicator of quality.
 	- [Enable paint flashing](https://developers.google.com/web/fundamentals/performance/rendering/simplify-paint-complexity-and-reduce-paint-areas?hl=en). Does the page turn green when you scroll? That's bad.
+	- Responsible webfont and image loading i.e. FOUT, responsive images, etc. [This theme](https://demo.thethemefoundry.com/basis-theme/) by Theme Foundry is a great example!
 
 4. UX
 	- Is the scrolling janky?
+	- Is the typography medium grey on light grey and super tiny? That's not easy to read.
 	- Does everything animate in and make you want to vomit?
 	- Are hover states on mobile disruptive? e.g. thumbnail captions.
 	- Are sliders touch sensitive? Does the text resize appropriately?
@@ -65,7 +67,7 @@ On the Themeforest page, check for:
 4. [Scroll-Jacking](http://robinrendle.com/notes/scrolljacking/) should die.
 5. You don't need parallax.
 6. One video background per page, please. or better yet...zero.
-	
+
 ## Resources
 
 I don't necessarily condone everything here, but these are some resources for themes and the like.
