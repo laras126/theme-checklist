@@ -41,7 +41,7 @@ Check for:
 
 3. Performance
 	- Run both the demo page and the theme landing page through [webpagetest.org](http://webpagetest.org)
-	- Speed index less than 4000
+	- Speed index less than 4000 (which is still high!)
 	- Page weight
 	- Throttle Network in Chrome
 	- Turn off JS - can you still see content?
